@@ -1,0 +1,367 @@
+button.btn.btn1 {
+    width: 132px;
+    height: 44px;
+    border-radius: 44px;
+    background: white;
+    color: #ffc480;
+    margin-left: 23px;
+}
+.banner {
+    position: relative;
+       height: 120vh;
+    background: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    color: black;
+}
+img{
+	object-fit: cover;
+	object-position: center;
+}
+*{
+	    box-sizing: border-box;
+}
+.navbar.collapsed .menu-icon-bar {
+  opacity: 1;
+}
+ .navbar-nav .nav-link {
+  position: relative;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 22px;
+    padding-right: 22px;
+    font-size: 16px;
+}
+nav.navbar.navbar-expand-md {
+    padding-bottom: 24px;
+    padding-bottom: 24px;
+}
+.banner h2 {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-top: 8px;
+    color: #ffc480;
+}
+.btn2 {
+    border-radius: 40px;
+    color: white;
+    height: 58px;
+    margin-top: 23px;
+    width: 218px;
+    background: #ffc480;
+}
+.top {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-top: -91px;
+}
+.top p {
+    color: #5a6e79;
+    font-size: 18px;
+}
+a.nav-item.nav-link {
+	color: #5a6e79;
+}
+a.nav-item.nav-link:hover{
+	color: #ffc480;
+	text-decoration: underline;
+}
+.department {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-top: -69px;
+}
+header{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+.department p {
+    color: #5a6e79;
+}
+.orange {
+    background: #ff5100d4;
+}
+.green {
+    background: #65ab17cc;
+}
+.light-orange {
+    background: #ff8c00ad;
+}
+.card11 {
+    width: 360px;
+    height: 425px;
+    color: white;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+}
+.card11 img {
+    height: 290px;
+    padding-top: 7px;
+}
+.card-box1 {
+    padding-top: 51px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.after1 {
+    margin-left: -95px;
+}
+.review {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    padding-top: 117px;
+}
+.review h2 {
+    padding-bottom: 25px;
+ }
+.review:after {
+    content: "";
+    position: absolute;
+    background: url(../images/bg-shape.png);
+    background-position: left;
+    background-size: cover;
+    width: 57%;
+    left: -17%;
+    transform: rotate(0deg);
+    top: -28%;
+    height: 1525px;
+    z-index: -1;
+    display: block;
+}
+.yellow {
+    color: #ffba00;
+}
+.gray{
+	    color: #5a6e79;
+}
+h4.boldd{
+	font-weight: bold;
+	margin: 0;
+	font-size: 40px;
+}
+.yellow p{
+	font-size: 20px;
+}
+.red p{
+	font-size: 20px;
+}
+.green1 p{
+	font-size: 20px;
+}
+.red {
+	color: #ff5f72;
+}
+.green1 {
+	color: #43cb83;
+}
+.university {
+	text-align: center;
+	padding-top: 111px;
+	position: relative;
+	padding-bottom: 113px;
+	display: inline-block;
+	width: 100%;
+}
+.university h2 {
+    padding-bottom: 59px;
+}
+h5.card-title {
+    font-size: 16px;
+}
+body {
+    background-color: #d3d3d329;
+}
+img.img2 {
+    height: 176px;
+    width: 264px;
+}
+p.card-footer {
+    background: transparent;
+    border: none;
+}
+.card2 {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    background: white;
+    margin-top: 33px;
+}
+.card-body {
+    margin-left: -6px;
+    padding-bottom: 13px;
+}
+p.card-footer {
+    margin-left: -20px;
+    margin-bottom: 30px;
+}
+p.card-text {
+    font-size: 12px;
+    margin-bottom: 15px;
+    margin-top: -6px;
+}
+.hover-color:hover {
+	color: #ffc178;
+	cursor: pointer;
+}
+.university:after {
+    content: "";
+    position: absolute;
+    background: url(../images/bg1.png);
+    background-position: left;
+    background-size: cover;
+    width: 47%;
+    left: 53%;
+    top: -12%;
+    height: 1761px;
+    z-index: -1;
+}
+form {
+    display: inline-flex;
+}
+li{
+	list-style-type: none;
+}
+footer {
+    background-color: #303744;
+    color: white;
+}
+.footer1 {
+    padding-bottom: 70px;
+    padding-top: 80px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    color: #969595
+}
+.footer1 h4 {
+    padding-bottom: 32px;
+    padding-left: 41px;
+    font-size: 14px;
+    color: white;
+}
+.small {
+    font-size: 12px;
+    color: #6b6b6b;
+}
+.footer1 li{
+	font-size: 14px;
+}
+img.image1{
+    padding-bottom: 41px;
+}
+form {
+    padding-top: 10px;
+}
+input.form-control {
+    border-radius: 0px;
+}
+button.btn3 {
+    border-radius: 0;
+    background: #eeb36b;
+    color: white;
+}
+.footer1 li{
+	padding-bottom: 20px;
+}
+.footer1:after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    top: 66%;
+    left: 206px;
+    width: 255px;
+    background-color: #303744;
+}
+.icon {
+    padding-top: 24px;
+    position: relative;
+    margin-left: -9px;
+}
+.footer-blue {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    opacity: 1;
+    background: #2a3240;
+}
+.footer-blue {
+    font-size: 13px;
+    padding-top: 16px;
+    color: #969595
+}
+.numbers {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    padding-top: 32px;
+}
+h2.size1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #252c3a;
+}
+p.card-footer {
+    margin-bottom: 0;
+}
+  .openBtn {
+        display: flex;
+        justify-content: left;
+      }
+      .loginPopup {
+        position: relative;
+        text-align: center;
+        width: 100%;
+      }
+.formPopup {
+    display: none;
+    position: fixed;
+    left: 15%;
+    top: 63%;
+    border: 3px solid #999999;
+    z-index: 9;
+}
+      .formContainer {
+        padding: 20px;
+        background-color: #fff;
+      }
+      .formContainer input[type=text],
+      .formContainer input[type=password] {
+        width: 100%;
+        padding: 15px;
+        margin: 5px 0 20px 0;
+        border: none;
+        background: #eee;
+      }
+      .formContainer input[type=text]:focus,
+      .formContainer input[type=password]:focus {
+        background-color: #ddd;
+        outline: none;
+      }
+      .formContainer .btn {
+        padding: 12px 20px;
+        border: none;
+        background-color: #8ebf42;
+        color: #fff;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 15px;
+        opacity: 0.8;
+      }
+      .formContainer .cancel {
+        background-color: #cc0000;
+      }
+      .formContainer .btn:hover,
+      .openButton:hover {
+        opacity: 1;
+      }
